@@ -4,7 +4,11 @@
 - [x] create 'account service' to fetch data
 - [x] setup playwright
 - [x] use playwright to start server
-- [ ] use testProxy to mock request
+- [x] use testProxy to mock request
+  - [x] suite level
+  - [x] test level
+  - [x] no mocks
+- [ ] figure out how it works
 - [ ] record video
 - [ ] share with team
-- [ ] share repo?
+- [ ] share repo
