@@ -7,7 +7,8 @@
     "dev:accounts-service": "tsx watch ./accounts-service/server.ts",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "test:e2e": "playwright test"
   },
   "dependencies": {
     "express": "^5.1.0",
@@ -17,6 +18,7 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@playwright/test": "^1.51.1",
     "@tailwindcss/postcss": "^4",
     "@types/express": "^5.0.1",
     "@types/node": "^20",

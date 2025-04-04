@@ -2,7 +2,8 @@
 - [x] setup debugging
 - [x] setup account page
 - [x] create 'account service' to fetch data
-- [ ] setup playwright
+- [x] setup playwright
+- [ ] use playwright to start server
 - [ ] use testProxy to mock request
 - [ ] record video
 - [ ] share with team
