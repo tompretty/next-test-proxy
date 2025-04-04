@@ -1,5 +1,5 @@
-- [ ] create project
-- [ ] setup debugging
+- [x] create project
+- [x] setup debugging
 - [ ] setup profile page
 - [ ] create 'account service' to fetch data
 - [ ] setup playwright
