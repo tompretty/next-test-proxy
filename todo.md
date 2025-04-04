@@ -12,5 +12,5 @@
 - [x] push to repo
 - [x] record video
 - [x] share with team
-- [ ] add instructions
-- [ ] share repo
+- [x] add instructions
+- [x] share repo
