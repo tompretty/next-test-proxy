@@ -1,7 +1,7 @@
 - [x] create project
 - [x] setup debugging
-- [ ] setup profile page
-- [ ] create 'account service' to fetch data
+- [x] setup account page
+- [x] create 'account service' to fetch data
 - [ ] setup playwright
 - [ ] use testProxy to mock request
 - [ ] record video
