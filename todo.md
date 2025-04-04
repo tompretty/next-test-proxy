@@ -8,7 +8,9 @@
   - [x] suite level
   - [x] test level
   - [x] no mocks
-- [ ] figure out how it works
-- [ ] record video
-- [ ] share with team
+- [x] figure out how it works
+- [x] push to repo
+- [x] record video
+- [x] share with team
+- [ ] add instructions
 - [ ] share repo
